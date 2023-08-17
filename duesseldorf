@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>
+      Musikschule in Düsseldorf | Fine Sound Academy - Hochwertiger
+      Musikunterricht
+    </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Finde hochwertigen Musikunterricht in Düsseldorf bei der Fine Sound Academy. Unsere erfahrene Lehrkräfte bieten professionellen Gesangsunterricht, Schlagzeugunterricht, Gitarrenunterricht, Bassunterricht und Klavierunterricht an. Egal ob Anfänger oder Fortgeschrittener, bei uns kannst du deine musikalischen Fähigkeiten entdecken und weiterentwickeln. Melde dich jetzt an und tauche ein in die faszinierende Welt der Musik!"
+    />
+    <meta property="og:title" content="Fine Sound Academy - Düsseldorf" />
+    <meta
+      property="og:description"
+      content="Finde hochwertigen Musikunterricht in Düsseldorf bei der Fine Sound Academy. Unsere erfahrene Lehrkräfte bieten professionellen Gesangsunterricht, Schlagzeugunterricht, Gitarrenunterricht, Bassunterricht und Klavierunterricht an. Egal ob Anfänger oder Fortgeschrittener, bei uns kannst du deine musikalischen Fähigkeiten entdecken und weiterentwickeln. Melde dich jetzt an und tauche ein in die faszinierende Welt der Musik!"
+    />
+    <meta
+      property="og:image"
+      content="https://res.cloudinary.com/dnp7nm4iy/image/upload/b_rgb:000000,c_scale,co_rgb:ffffff,e_bgremoval,h_256,w_256/v1680344909/Logo_fppvkk.png"
+    />
+    <meta
+      name="keywords"
+      content="music school, dusseldorf, instrument, lesson, musikschule, dusseldorf, singen lernen, schlagzeug lernen, gitarre lernen, bass lernen, klavier lernen, musikunterricht, Düsseldorf, Gitarrenunterricht, Schlagzeugunterricht, Gesangsunterricht, Bassunterricht, Klavierunterricht, Kinder, Erwachsene, Gruppenunterricht, Klavier lernen, Gitarre lernen, Bass lernen, Gesang lernen, Schlagzeug lernen"
+    />
+    <meta name="next-head-count" content="8" />
+    <link
+      rel="icon"
+      href="https://res.cloudinary.com/dnp7nm4iy/image/upload/c_scale,h_170,w_256/v1684697347/Color_logo_with_background_saxk0f.png"
+    />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="google-site-verification"
+      content="SwIrLsNZUpig9a0xFT7sCUIszCLWuqN_ZGCxl8NQx7s"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+    />
+  </head>
+  <body>
+    <main style="width: 100%">
+      <section class="intro">
+        <div class="intro_text-container">
+          <div class="info_text">
+            <div class="intro_infos">
+              <div class="intro_logo">
+                <img
+                  class="logo"
+                  style="color: transparent"
+                  alt="Fine sound academy Musikschule"
+                  src="https://res.cloudinary.com/dnp7nm4iy/image/upload/c_scale,w_1272/v1684697033/Color_logo_-_no_background_1_leca6l.png"
+                />
+              </div>
+            </div>
+            <div class="intro_titles">
+              <h1
+                class="title_duesseldorf"
+                style="font-family: Dosis, sans-serif"
+              >
+                Deine Musikschule in Düsseldorf. Du möchtest ein Instrument
+                lernen? Wir unterstützen dich gerne dabei.
+              </h1>
+              <a
+                class="contact titles_probe"
+                aria-label="Buchen Sie jetzt Ihre kostenlose Musikunterricht Probestunde bei der Fine Sound Academy Musikschule"
+                >KOSTENLOSE PROBE STUNDE</a
+              >
+            </div>
+            <div class="social_media-links"></div>
+          </div>
+        </div>
+        <div class="banner_image_animation intro_image" id="animated_banner">
+          <span class="image_shadows shadow_top"></span>
+          <span class="image_shadows shadow_left"></span>
+          <span class="image_shadows shadow_right"></span
+          ><img
+            src="https://res.cloudinary.com/dnp7nm4iy/image/upload/c_scale,h_1200/v1680344929/IMG_6827_z7c1t4.jpg"
+            alt="Animation image"
+            class="4"
+            style="
+              height: 100%;
+              width: 100%;
+              object-fit: cover;
+              object-position: center center;
+            "
+          />
+        </div>
+      </section>
+      <section>
+        <div class="title_deco">
+          <div class="deco_cont">
+            <img
+              src="https://res.cloudinary.com/dnp7nm4iy/image/upload/v1680344888/EKG_oyriou.png"
+              alt="Decoration"
+            />
+          </div>
+          <h2>DAS UNTERRICHTEN WIR</h2>
+        </div>
+        <div class="instruments_container">
+          <div class="instruments"></div>
+        </div>
+      </section>
+      <section>
+        <div class="title_deco">
+          <div class="deco_cont">
+            <img
+              src="https://res.cloudinary.com/dnp7nm4iy/image/upload/v1680344888/EKG_oyriou.png"
+              alt="Decoration"
+            />
+          </div>
+          <h2>ÜBER UNS</h2>
+        </div>
+        <div
+          class="animate__animated animate__fadeIn"
+          style="animation-duration: 1s; opacity: 1"
+        >
+          <div class="advantages">
+            <div class="about"></div>
+          </div>
+        </div>
+      </section>
+      <section class="teachers_section">
+        <div class="title_deco">
+          <div class="deco_cont">
+            <img
+              src="https://res.cloudinary.com/dnp7nm4iy/image/upload/v1680344888/EKG_oyriou.png"
+              alt="Decoration"
+            />
+          </div>
+          <h2>UNSER TEAM</h2>
+        </div>
+        <div class="teachers_duesseldorf teachers"></div>
+      </section>
+      <section class="probe_section"></section>
+      <section>
+        <div class="title_deco">
+          <div class="deco_cont">
+            <img
+              src="https://res.cloudinary.com/dnp7nm4iy/image/upload/v1680344888/EKG_oyriou.png"
+              alt="Decoration"
+            />
+          </div>
+          <h2>PREISE</h2>
+        </div>
+        <div class="price_list">
+          <div class="prices"></div>
+        </div>
+      </section>
+      <section>
+        <div class="map">
+          <div id="google_map"></div>
+          <script>
+            function initMap() {
+              console.log("initMap function is called");
+
+              let location;
+              if (window.location.pathname.includes("/duesseldorf")) {
+                location = { lat: 51.233911389532445, lng: 6.779142169482935 };
+              } else if (window.location.pathname.includes("/neuss")) {
+                location = { lat: 51.20087707949891, lng: 6.690232717132391 };
+              }
+              const customStyles = [
+                {
+                  featureType: "administrative",
+                  elementType: "geometry.fill",
+                  stylers: [
+                    {
+                      color: "#8b8b8b",
+                    },
+                    {
+                      saturation: "0",
+                    },
+                  ],
+                },
+                {
+                  featureType: "administrative",
+                  elementType: "geometry.stroke",
+                  stylers: [
+                    {
+                      color: "#b4934a",
+                    },
+                  ],
+                },
+                {
+                  featureType: "administrative",
+                  elementType: "labels.text.fill",
+                  stylers: [
+                    {
+                      color: "#b4934a",
+                    },
+                  ],
+                },
+                {
+                  featureType: "administrative.land_parcel",
+                  elementType: "geometry.fill",
+                  stylers: [
+                    {
+                      color: "#ff0000",
+                    },
+                  ],
+                },
+                {
+                  featureType: "landscape",
+                  elementType: "all",
+                  stylers: [
+                    {
+                      color: "#f2f2f2",
+                    },
+                  ],
+                },
+                {
+                  featureType: "landscape",
+                  elementType: "geometry.fill",
+                  stylers: [
+                    {
+                      color: "#b4934a",
+                    },
+                    {
+                      lightness: "85",
+                    },
+                  ],
+                },
+                {
+                  featureType: "poi",
+                  elementType: "all",
+                  stylers: [
+                    {
+                      visibility: "on",
+                    },
+                    {
+                      saturation: "-55",
+                    },
+                    {
+                      hue: "#ffb000",
+                    },
+                  ],
+                },
+                {
+                  featureType: "poi",
+                  elementType: "geometry.fill",
+                  stylers: [
+                    {
+                      color: "#b4934a",
+                    },
+                  ],
+                },
+                {
+                  featureType: "poi",
+                  elementType: "labels.text.fill",
+                  stylers: [
+                    {
+                      color: "#b4934a",
+                    },
+                  ],
+                },
+                {
+                  featureType: "poi.school",
+                  elementType: "labels.icon",
+                  stylers: [
+                    {
+                      visibility: "off",
+                    },
+                  ],
+                },
+                {
+                  featureType: "road",
+                  elementType: "all",
+                  stylers: [
+                    {
+                      saturation: -100,
+                    },
+                    {
+                      lightness: 45,
+                    },
+                  ],
+                },
+                {
+                  featureType: "road",
+                  elementType: "geometry.fill",
+                  stylers: [
+                    {
+                      color: "#b4934a",
+                    },
+                    {
+                      lightness: "60",
+                    },
+                  ],
+                },
+                {
+                  featureType: "road",
+                  elementType: "labels.text.fill",
+                  stylers: [
+                    {
+                      color: "#b4934a",
+                    },
+                  ],
+                },
+                {
+                  featureType: "road",
+                  elementType: "labels.icon",
+                  stylers: [
+                    {
+                      visibility: "off",
+                    },
+                    {
+                      lightness: "0",
+                    },
+                    {
+                      weight: "3.19",
+                    },
+                    {
+                      saturation: "0",
+                    },
+                    {
+                      gamma: "1.04",
+                    },
+                  ],
+                },
+                {
+                  featureType: "road.highway",
+                  elementType: "all",
+                  stylers: [
+                    {
+                      visibility: "simplified",
+                    },
+                  ],
+                },
+                {
+                  featureType: "road.highway.controlled_access",
+                  elementType: "geometry.fill",
+                  stylers: [
+                    {
+                      color: "#b4934a",
+                    },
+                    {
+                      lightness: "60",
+                    },
+                  ],
+                },
+                {
+                  featureType: "road.highway.controlled_access",
+                  elementType: "labels.text.fill",
+                  stylers: [
+                    {
+                      color: "#b4934a",
+                    },
+                  ],
+                },
+                {
+                  featureType: "road.arterial",
+                  elementType: "geometry.fill",
+                  stylers: [
+                    {
+                      color: "#b4934a",
+                    },
+                    {
+                      lightness: "60",
+                    },
+                  ],
+                },
+                {
+                  featureType: "road.arterial",
+                  elementType: "labels.text.fill",
+                  stylers: [
+                    {
+                      color: "#b4934a",
+                    },
+                  ],
+                },
+                {
+                  featureType: "road.arterial",
+                  elementType: "labels.icon",
+                  stylers: [
+                    {
+                      visibility: "off",
+                    },
+                  ],
+                },
+                {
+                  featureType: "road.local",
+                  elementType: "geometry.fill",
+                  stylers: [
+                    {
+                      color: "#b4934a",
+                    },
+                    {
+                      lightness: "60",
+                    },
+                  ],
+                },
+                {
+                  featureType: "road.local",
+                  elementType: "labels.text.fill",
+                  stylers: [
+                    {
+                      color: "#b4934a",
+                    },
+                  ],
+                },
+                {
+                  featureType: "transit",
+                  elementType: "all",
+                  stylers: [
+                    {
+                      visibility: "off",
+                    },
+                    {
+                      color: "#ff0000",
+                    },
+                  ],
+                },
+                {
+                  featureType: "water",
+                  elementType: "all",
+                  stylers: [
+                    {
+                      color: "#b48620",
+                    },
+                    {
+                      visibility: "on",
+                    },
+                  ],
+                },
+                {
+                  featureType: "water",
+                  elementType: "geometry.fill",
+                  stylers: [
+                    {
+                      lightness: "100",
+                    },
+                    {
+                      saturation: "80",
+                    },
+                    {
+                      color: "#b4934a",
+                    },
+                    {
+                      gamma: "1.70",
+                    },
+                  ],
+                },
+                {
+                  featureType: "water",
+                  elementType: "labels.text.fill",
+                  stylers: [
+                    {
+                      color: "#b4934a",
+                    },
+                  ],
+                },
+              ];
+              if (!document.getElementById("google_map")) return;
+              let map = new google.maps.Map(
+                document.getElementById("google_map"),
+                {
+                  zoom: 16,
+                  center: location,
+                  styles: customStyles,
+                }
+              );
+              let marker = new google.maps.Marker({
+                position: location,
+                map: map,
+                icon: {
+                  url: "https://res.cloudinary.com/dnp7nm4iy/image/upload/c_scale,w_140/v1680344909/MapMarkerFSA_glucbx.png",
+                  scaledSize: new google.maps.Size(70, 70),
+                },
+              });
+            }
+          </script>
+          <div class="contact_square">
+            <div class="contact_details">
+              <div class="contact_details_sub">
+                <div class="contact_image">
+                  <img
+                    src="https://res.cloudinary.com/dnp7nm4iy/image/upload/c_scale,w_140/v1680351132/Adresse_eewpng.png"
+                    alt="Adresse icon"
+                  />
+                </div>
+                <div class="contact_text">
+                  <h5 class="contact_title">Adresse:</h5>
+                  <p>Kaiserstraße 28</p>
+                  <p>40479 Düsseldorf</p>
+                </div>
+              </div>
+              <div class="contact_details_sub">
+                <div class="contact_image">
+                  <img
+                    src="https://res.cloudinary.com/dnp7nm4iy/image/upload/c_scale,w_140/v1680351132/Nummer_tnfkjk.png"
+                    alt="Phone icon"
+                  />
+                </div>
+                <div class="contact_text">
+                  <h5 class="contact_title">Mobil:</h5>
+                  <a href="phone:+4917677154511">017677154511</a>
+                </div>
+              </div>
+              <div class="contact_details_sub">
+                <div class="contact_image">
+                  <img
+                    src="https://res.cloudinary.com/dnp7nm4iy/image/upload/c_scale,w_140/v1680351132/EMail_ag2jer.png"
+                    alt="Email icon"
+                  />
+                </div>
+                <div class="contact_text">
+                  <h5 class="contact_title">E-Mail:</h5>
+                  <a href="mailto:info@finesoundacademy.com"
+                    >info@finesoundacademy.com</a
+                  >
+                </div>
+              </div>
+            </div>
+            <div class="information">
+              <div class="contact_whatsapp">
+                <a
+                  href="https://www.axinio.app/booking/forms/trial/fc60f65c-2a6f-49dd-8809-c41246cca534/"
+                  class="formular"
+                  aria-label="Kontaktformular link"
+                  >ZUM KONTAKTFORMULAR</a
+                ><a
+                  class="whatsapp"
+                  href=" https://api.whatsapp.com/send?phone=4917677154511"
+                  aria-label="Whatsapp"
+                  ><div>
+                    <svg
+                      stroke="currentColor"
+                      fill="currentColor"
+                      stroke-width="0"
+                      viewBox="0 0 16 16"
+                      height="1em"
+                      width="1em"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M13.601 2.326A7.854 7.854 0 0 0 7.994 0C3.627 0 .068 3.558.064 7.926c0 1.399.366 2.76 1.057 3.965L0 16l4.204-1.102a7.933 7.933 0 0 0 3.79.965h.004c4.368 0 7.926-3.558 7.93-7.93A7.898 7.898 0 0 0 13.6 2.326zM7.994 14.521a6.573 6.573 0 0 1-3.356-.92l-.24-.144-2.494.654.666-2.433-.156-.251a6.56 6.56 0 0 1-1.007-3.505c0-3.626 2.957-6.584 6.591-6.584a6.56 6.56 0 0 1 4.66 1.931 6.557 6.557 0 0 1 1.928 4.66c-.004 3.639-2.961 6.592-6.592 6.592zm3.615-4.934c-.197-.099-1.17-.578-1.353-.646-.182-.065-.315-.099-.445.099-.133.197-.513.646-.627.775-.114.133-.232.148-.43.05-.197-.1-.836-.308-1.592-.985-.59-.525-.985-1.175-1.103-1.372-.114-.198-.011-.304.088-.403.087-.088.197-.232.296-.346.1-.114.133-.198.198-.33.065-.134.034-.248-.015-.347-.05-.099-.445-1.076-.612-1.47-.16-.389-.323-.335-.445-.34-.114-.007-.247-.007-.38-.007a.729.729 0 0 0-.529.247c-.182.198-.691.677-.691 1.654 0 .977.71 1.916.81 2.049.098.133 1.394 2.132 3.383 2.992.47.205.84.326 1.129.418.475.152.904.129 1.246.08.38-.058 1.171-.48 1.338-.943.164-.464.164-.86.114-.943-.049-.084-.182-.133-.38-.232z"
+                      ></path>
+                    </svg>
+                    <div class="wp_text">
+                      <p style="font-family: Maytra; font-size: 3rem">
+                        Schreibe uns bei
+                      </p>
+                      <p>WHATSAPP</p>
+                    </div>
+                  </div></a
+                >
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+    <footer class="footer">
+      <div class="footer_container">
+        <a href="/">Home</a><a href="/datenschutz">Datenschutz</a
+        ><a href="/impressum">Impressum</a
+        ><a
+          href="https://www.axinio.app/booking/forms/termination/ebc793bf-3f17-4c16-a315-e9b045bf954b/"
+          aria-label="Vertragskündigung link"
+          >Vertragskündigung</a
+        >
+      </div>
+    </footer>
+    <script src="script.js" type="module"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBWfVlEwLKClNW6xqX6YKk27v-nG1RVKMY&callback=initMap"></script>
+  </body>
+</html>

@@ -1,0 +1,9 @@
+User-agent: *
+Crawl-delay: 2
+
+User-agent: Googlebot
+Crawl-delay: 1
+
+Disallow:
+
+Sitemap: https://finesoundacademy.com/sitemap.xml

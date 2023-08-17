@@ -28,32 +28,43 @@
       href="https://res.cloudinary.com/dnp7nm4iy/image/upload/c_scale,h_170,w_256/v1684697347/Color_logo_with_background_saxk0f.png"
     />
     <meta name="theme-color" content="#000000" />
-
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <div>
-      <div
-        style="
-          display: flex;
-          flex-direction: column;
-          align-items: center;
-          justify-content: center;
-          height: 100vh;
-        "
-      >
-        <h1>404 - Seite nicht gefunden</h1>
-        <p>Die von Ihnen gesuchte Seite konnte nicht gefunden werden.</p>
+    <div id="__next">
+      <div class="impressum">
+        <h1>Impressum</h1>
+        <h2>Angaben gemäß § 5 TMG</h2>
         <p>
-          Klicken Sie auf den folgenden Link, um zur Website von Fine Sound
-          Academy zu gelangen<!-- -->
-          <a
-            style="color: gold; border-bottom: 1px solid gold"
-            href="https://finesoundacademy.com"
-            >Fine Sound Academy</a
-          >
+          Toni Damjanovic<br />Fine Sound Academy<br />Neumarkt 18<br />41460
+          Neuss
         </p>
+        <h2>Kontakt</h2>
+        <p>Telefon: 021312949440<br />E-Mail: info@finesoundacademy.com</p>
+        <h2>Berufsbezeichnung und berufsrechtliche Regelungen</h2>
+        <p>Berufsbezeichnung:<br />Musikschule</p>
+        <p>Zuständige Kammer:<br /></p>
+        <p>Verliehen in:<br /></p>
+        <p>Es gelten folgende berufsrechtliche Regelungen:</p>
+        <h2>Verbraucher­streit­beilegung/Universal­schlichtungs­stelle</h2>
+        <p>
+          Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren
+          vor einer Verbraucherschlichtungsstelle teilzunehmen.
+        </p>
+        <p>Quelle: <a href="https://www.e-recht24.de">e-recht24.de</a></p>
       </div>
+      <footer class="footer">
+        <div class="footer_container">
+          <a href="/">Home</a
+          ><a href="/datenschutz">Datenschutz</a
+          ><a href="/impressum">Impressum</a
+          ><a
+            href="https://www.axinio.app/booking/forms/termination/ebc793bf-3f17-4c16-a315-e9b045bf954b/"
+            aria-label="Vertragskündigung link"
+            >Vertragskündigung</a
+          >
+        </div>
+      </footer>
     </div>
   </body>
 </html>
